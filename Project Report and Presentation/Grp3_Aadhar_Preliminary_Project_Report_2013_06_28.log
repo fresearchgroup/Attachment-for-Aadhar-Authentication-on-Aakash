@@ -1,0 +1,1702 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.29)  2 JUL 2013 18:54
+entering extended mode
+ %&-line parsing enabled.
+**Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.tex
+(./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/cite/chapterbib.sty
+\c@inputfile=\count92
+Package: chapterbib 2009/03/31  v 1.14
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen109
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count95
+\Field@Width=\dimen110
+\Fld@charsize=\dimen111
+\Field@toks=\toks16
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count100
+\LTcapwidth=\dimen112
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks17
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks18
+\float@box=\box30
+\@float@everytoks=\toks19
+\@floatcapt=\box31
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count106
+\mult@box=\box32
+\multicol@leftmargin=\dimen113
+\c@unbalance=\count107
+\c@collectmore=\count108
+\doublecol@number=\count109
+\multicoltolerance=\count110
+\multicolpretolerance=\count111
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
+\multicolsep=\skip47
+\multicolbaselineskip=\skip48
+\partial@page=\box33
+\last@line=\box34
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count112
+\c@finalcolumnbadness=\count113
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.aux)
+\openout1 = `Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 86.72377pt, 438.51411pt, 72.26999pt
+v-parts: 72.26999pt, 700.50687pt, 72.26999pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  438.51411pt
+\textheight 700.50687pt
+\oddsidemargin  14.45378pt
+\evensidemargin 0.0pt
+\topmargin  -31.8738pt
+\headheight 12.0pt
+\headsep    19.8738pt
+\footskip   30.0pt
+\marginparwidth 98.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen121
+\scratchbox=\box58
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen122
+\MPnumerator=\count118
+\everyMPtoPDFconversion=\toks21
+)
+Package hyperref Info: Link coloring OFF on input line 32.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+
+(./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.out)
+(./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.out)
+\@outlinefile=\write3
+\openout3 = `Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.out'.
+
+\AtBeginShipoutBox=\box59
+
+<IITB_logo.png, id=187, 67.2111pt x 70.1019pt>
+File: IITB_logo.png Graphic file (type png)
+ <use IITB_logo.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 56.
+
+<dj.jpg, id=189, 237.88875pt x 213.79875pt>
+File: dj.jpg Graphic file (type jpg)
+ <use dj.jpg>
+<nitc.jpg, id=190, 204.765pt x 247.92625pt>
+File: nitc.jpg Graphic file (type jpg)
+ <use nitc.jpg>
+<t.jpg, id=191, 332.24126pt x 152.57pt>
+File: t.jpg Graphic file (type jpg)
+ <use t.jpg>
+<111.jpg, id=192, 173.448pt x 180.675pt>
+File: 111.jpg Graphic file (type jpg)
+ <use 111.jpg>
+<vnit.jpg, id=193, 240.9pt x 180.675pt>
+File: vnit.jpg Graphic file (type jpg)
+ <use vnit.jpg> [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./IITB_logo.png> <./dj.jpg
+> <./nitc.jpg> <./t.jpg> <./111.jpg> <./vnit.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 100.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+! Undefined control sequence.
+l.126 \intend
+              Date:3rd July 2013
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5] [6
+
+]
+! Misplaced alignment tab character &.
+l.206 ... providing us assistance in various h/w &
+                                                   s/w problems that we enco...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[1] [2
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [3] [4
+
+] (./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.lof
+[5])
+\tf@lof=\write4
+\openout4 = `Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.lof'.
+
+ [6] (./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.toc [7
+
+])
+\tf@toc=\write5
+\openout5 = `Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.toc'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Chapter 1.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--241
+
+ []
+
+<./Diagram1.pdf, id=419, 350.30875pt x 739.76375pt>
+File: ./Diagram1.pdf Graphic file (type pdf)
+ <use ./Diagram1.pdf>
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.247 
+       [1
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--257
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.257 
+       [2pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.1.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.257 
+       <./Diagram1.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 \chapter
+              {Image Processing} [3]pdfTeX warning (ext4): destination with the
+ same identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 \chapter
+              {Image Processing} [4
+
+]
+Chapter 2.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--276
+
+ []
+
+<./1.jpg, id=436, 779.91376pt x 308.15125pt>
+File: ./1.jpg Graphic file (type jpg)
+ <use ./1.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.293 \section
+              {Adaptive Histogram equalization of Grey scale} [5pdfTeX warning 
+(ext4): destination with the same identifier (name{figure.2.1}) has been alread
+y used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.293 \section
+              {Adaptive Histogram equalization of Grey scale} <./1.jpg>]
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+<./9.jpg, id=441, 523.9575pt x 172.645pt>
+File: ./9.jpg Graphic file (type jpg)
+ <use ./9.jpg>
+<./3.jpg, id=442, 626.34pt x 156.585pt>
+File: ./3.jpg Graphic file (type jpg)
+ <use ./3.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 309--327
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.327 \end{figure}
+                   [6pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.2.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.327 \end{figure}
+                   <./9.jpg>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.329 Time Complexity=O(27 x m x n^
+                                   2) \\[12pt]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.330 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.333 n^
+        2=multiplication complexity\\[12pt]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.334 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.354 
+       <./3.jpg>] <./4.jpg, id=452, 301.125pt x 337.26pt>
+File: ./4.jpg Graphic file (type jpg)
+ <use ./4.jpg>
+Underfull \vbox (badness 2359) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 374--377
+
+ []
+
+<./5.jpg, id=457, 301.125pt x 337.26pt>
+File: ./5.jpg Graphic file (type jpg)
+ <use ./5.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 384--389
+
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+2.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 
+       <./4.jpg> <./5.jpg>] <./8.jpg, id=463, 663.47874pt x 212.795pt>
+File: ./8.jpg Graphic file (type jpg)
+
+<use ./8.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+ []
+
+
+Overfull \hbox (10.95903pt too wide) in paragraph at lines 423--424
+\OT1/cmr/m/n/12 (Maximum Brightness-Minimum Bright-ness) / (Max-i-mum Bright-ne
+ss+Minimum Bright-
+ []
+
+
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.427 
+       <./8.jpg>] [11] [12
+
+]
+Chapter 3.
+! Undefined control sequence.
+l.433 \intend
+              Black acrylic (3 mm thick)\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.446 \intend
+              Assembly consists of 3 parts-\\[12pt]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.450 \intend
+              Clamp : It is made of black acrylic (opaque) which fits direct...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--455
+
+ []
+
+[13] <./6.jpg, id=484, 1348.03625pt x 691.58376pt>
+File: ./6.jpg Graphic file (type jpg)
+ <use ./6.jpg>
+<./88.jpg, id=485, 1353.055pt x 1029.8475pt>
+File: ./88.jpg Graphic file (type jpg)
+ <use ./88.jpg> [14pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.3.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.467 \chapter
+              {Experimentation and Results}pdfTeX warning (ext4): destination w
+ith the same identifier (name{figure.3.2}) has been already used, duplicate ign
+ored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.467 \chapter
+              {Experimentation and Results} <./6.jpg> <./88.jpg>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+<./10.jpg, id=490, 641.39626pt x 329.23pt>
+File: ./10.jpg Graphic file (type jpg)
+ <use ./10.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
+
+ []
+
+<./11.jpg, id=491, 386.44376pt x 252.945pt>
+File: ./11.jpg Graphic file (type jpg)
+ <use ./11.jpg>
+<./12.jpg, id=492, 374.39874pt x 281.05pt>
+File: ./12.jpg Graphic file (type jpg)
+ <use ./12.jpg> [15
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.499 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.499 
+       <./10.jpg> <./11.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 500--509
+
+ []
+
+<./13.jpg, id=497, 1025.8325pt x 479.7925pt>
+File: ./13.jpg Graphic file (type jpg)
+ <use ./13.jpg>
+<./14.jpg, id=498, 503.8825pt x 397.485pt>
+File: ./14.jpg Graphic file (type jpg)
+ <use ./14.jpg>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.524 \end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{figure.4.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.524 \end{figure}
+                   <./12.jpg> <./13.jpg>] [17pdfTeX warning (ext4): destination
+ with the same identifier (name{figure.4.5}) has been already used, duplicate i
+gnored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.525 \newpage
+               <./14.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.527 \subsection{Cropped Image (Manual)}\\[12pt]
+                                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./15.jpg, id=508, 493.845pt x 377.41pt>
+File: ./15.jpg Graphic file (type jpg)
+ <use ./15.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 536--542
+
+ []
+
+<./16.jpg, id=509, 1028.84375pt x 357.335pt>
+File: ./16.jpg Graphic file (type jpg)
+ <use ./16.jpg>
+<./17.jpg, id=510, 510.90875pt x 389.455pt>
+File: ./17.jpg Graphic file (type jpg)
+ <use ./17.jpg> [18pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 \newpage
+               <./15.jpg> <./16.jpg> <./17.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.560 \subsection{Image Grayscaling}\\[12pt]
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./18.jpg, id=515, 839.135pt x 641.39626pt>
+File: ./18.jpg Graphic file (type jpg)
+ <use ./18.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 569--574
+
+ []
+
+<./19.jpg, id=516, 562.1pt x 421.575pt>
+File: ./19.jpg Graphic file (type jpg)
+ <use ./19.jpg> [19pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.582 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.582 \newpage
+               <./18.jpg> <./19.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.584 \subsection{Image Resizing}\\[12pt]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./20.jpg, id=521, 301.125pt x 200.75pt>
+File: ./20.jpg Graphic file (type jpg)
+ <use ./20.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 593--598
+
+ []
+
+<./21.jpg, id=522, 465.74pt x 287.0725pt>
+File: ./21.jpg Graphic file (type jpg)
+ <use ./21.jpg> [20pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.606 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.606 \newpage
+               <./20.jpg> <./21.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.608 ... Adaptive Histogram Equalization}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./22.jpg, id=527, 301.125pt x 200.75pt>
+File: ./22.jpg Graphic file (type jpg)
+ <use ./22.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 617--622
+
+ []
+
+<./23.jpg, id=528, 465.74pt x 287.0725pt>
+File: ./23.jpg Graphic file (type jpg)
+ <use ./23.jpg> [21pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.630 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.630 \newpage
+               <./22.jpg> <./23.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.632 \subsection{Image Sharpening}\\[12pt]
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./24.jpg, id=533, 301.125pt x 200.75pt>
+File: ./24.jpg Graphic file (type jpg)
+ <use ./24.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 641--646
+
+ []
+
+<./25.jpg, id=534, 465.74pt x 287.0725pt>
+File: ./25.jpg Graphic file (type jpg)
+ <use ./25.jpg> [22pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.15}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.654 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.654 \newpage
+               <./24.jpg> <./25.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.656 \subsection{Image Thresholding}\\[12pt]
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./26.jpg, id=539, 301.125pt x 200.75pt>
+File: ./26.jpg Graphic file (type jpg)
+ <use ./26.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 665--670
+
+ []
+
+<./27.jpg, id=540, 465.74pt x 287.0725pt>
+File: ./27.jpg Graphic file (type jpg)
+ <use ./27.jpg> [23pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.678 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.678 \newpage
+               <./26.jpg> <./27.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.680 \subsection{Image Thinning}\\[12pt]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./28.jpg, id=546, 301.125pt x 200.75pt>
+File: ./28.jpg Graphic file (type jpg)
+ <use ./28.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 689--694
+
+ []
+
+<./29.jpg, id=547, 465.74pt x 287.0725pt>
+File: ./29.jpg Graphic file (type jpg)
+ <use ./29.jpg> [24pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.702 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.702 \newpage
+               <./28.jpg> <./29.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.708 \subsection{Input RGB Image}\\[12pt]
+                                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./30.jpg, id=552, 395.4775pt x 297.11pt>
+File: ./30.jpg Graphic file (type jpg)
+ <use ./30.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 717--726
+
+ []
+
+<./31.jpg, id=553, 1523.6925pt x 608.2725pt>
+File: ./31.jpg Graphic file (type jpg)
+ <use ./31.jpg> [25pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.21}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.735 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.22}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.735 \newpage
+               <./30.jpg> <./31.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.737 \subsection{Cropped Image (Manual)}\\[12pt]
+                                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./32.jpg, id=558, 335.2525pt x 222.8325pt>
+File: ./32.jpg Graphic file (type jpg)
+ <use ./32.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 746--752
+
+ []
+
+<./33.jpg, id=559, 958.58125pt x 425.59pt>
+File: ./33.jpg Graphic file (type jpg)
+ <use ./33.jpg> [26pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.23}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.761 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.24}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.761 \newpage
+               <./32.jpg> <./33.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.763 \subsection{Image Grayscaling}\\[12pt]
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./34.jpg, id=564, 335.2525pt x 222.8325pt>
+File: ./34.jpg Graphic file (type jpg)
+ <use ./34.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 772--777
+
+ []
+
+<./35.jpg, id=565, 465.74pt x 287.0725pt>
+File: ./35.jpg Graphic file (type jpg)
+ <use ./35.jpg> [27pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.785 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.26}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.785 \newpage
+               <./34.jpg> <./35.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.787 \subsection{Image Resizing}\\[12pt]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./36.jpg, id=570, 301.125pt x 200.75pt>
+File: ./36.jpg Graphic file (type jpg)
+ <use ./36.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 796--801
+
+ []
+
+<./37.jpg, id=571, 562.1pt x 421.575pt>
+File: ./37.jpg Graphic file (type jpg)
+ <use ./37.jpg> [28pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.27}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.809 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.28}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.809 \newpage
+               <./36.jpg> <./37.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.811 ... Adaptive Histogram Equalization}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./38.jpg, id=576, 301.125pt x 200.75pt>
+File: ./38.jpg Graphic file (type jpg)
+ <use ./38.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 820--825
+
+ []
+
+<./39.jpg, id=577, 465.74pt x 287.0725pt>
+File: ./39.jpg Graphic file (type jpg)
+ <use ./39.jpg> [29pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.29}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.833 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.30}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.833 \newpage
+               <./38.jpg> <./39.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.835 \subsection{Image Sharpening}\\[12pt]
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ./24.jpg Graphic file (type jpg)
+<use ./24.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 844--849
+
+ []
+
+File: ./25.jpg Graphic file (type jpg)
+<use ./25.jpg> [30pdfTeX warning (ext4): destination with the same identifier (
+name{figure.4.31}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.857 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.32}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.857 \newpage
+              ]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.859 \subsection{Image Thresholding}\\[12pt]
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ./26.jpg Graphic file (type jpg)
+<use ./26.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 868--873
+
+ []
+
+File: ./27.jpg Graphic file (type jpg)
+<use ./27.jpg> [31pdfTeX warning (ext4): destination with the same identifier (
+name{figure.4.33}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.881 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.34}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.881 \newpage
+              ]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.883 \subsection{Image Thinning}\\[12pt]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ./28.jpg Graphic file (type jpg)
+<use ./28.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 892--897
+
+ []
+
+File: ./29.jpg Graphic file (type jpg)
+<use ./29.jpg> [32pdfTeX warning (ext4): destination with the same identifier (
+name{figure.4.35}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.905 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.36}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.905 \newpage
+              ]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.907 ...With Different Number of Leds ON}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.909 \subsection{With all LEDs on}\\[12pt]
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.911 ...ubsection{Cropped Image (Manual)}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./61.jpg, id=595, 518.93875pt x 398.48875pt>
+File: ./61.jpg Graphic file (type jpg)
+ <use ./61.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 920--925
+
+ []
+
+<./62.jpg, id=596, 851.18pt x 534.99875pt>
+File: ./62.jpg Graphic file (type jpg)
+ <use ./62.jpg> [33pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.37}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.935 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.38}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.935 \newpage
+               <./61.jpg> <./62.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.937 \subsection{With 3 Leds on}\\[12pt]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.939 ...ubsection{Cropped Image (Manual)}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./63.jpg, id=601, 599.23875pt x 421.575pt>
+File: ./63.jpg Graphic file (type jpg)
+ <use ./63.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 947--952
+
+ []
+
+<./64.jpg, id=602, 764.8575pt x 544.0325pt>
+File: ./64.jpg Graphic file (type jpg)
+ <use ./64.jpg> [34pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.39}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.961 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.40}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.961 \newpage
+               <./63.jpg> <./64.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.963 ...section{With 2 Leds(adjacent) on}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.965 ...ubsection{Cropped Image (Manual)}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./65.jpg, id=607, 604.2575pt x 431.6125pt>
+File: ./65.jpg Graphic file (type jpg)
+ <use ./65.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 973--978
+
+ []
+
+<./66.jpg, id=608, 862.22125pt x 538.01pt>
+File: ./66.jpg Graphic file (type jpg)
+ <use ./66.jpg> [35pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.41}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.987 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.42}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.987 \newpage
+               <./65.jpg> <./66.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.989 ...section{With 2 Leds(diagonal) on}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.991 ...ubsection{Cropped Image (Manual)}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./67.jpg, id=614, 572.1375pt x 389.455pt>
+File: ./67.jpg Graphic file (type jpg)
+ <use ./67.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 999--1004
+
+ []
+
+<./68.jpg, id=615, 878.28125pt x 529.98pt>
+File: ./68.jpg Graphic file (type jpg)
+ <use ./68.jpg> [36pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.43}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1013 \newpage
+               pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.4.44}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1013 \newpage
+                <./67.jpg> <./68.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1015 \subsection{With 1 Led on} \\[12pt]
+                                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1017 ...bsection{Cropped Image (Manual)}\\[12pt]
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./69.jpg, id=620, 604.2575pt x 414.54875pt>
+File: ./69.jpg Graphic file (type jpg)
+ <use ./69.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1030
+
+ []
+
+<./70.jpg, id=621, 894.34125pt x 517.935pt>
+File: ./70.jpg Graphic file (type jpg)
+ <use ./70.jpg> [37pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.4.45}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1041 \chapter
+               {Conclusion and Future Scope}pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.4.46}) has been already used, duplicate i
+gnored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1041 \chapter
+               {Conclusion and Future Scope} <./69.jpg> <./70.jpg>] [38
+
+]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1046
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+
+ []
+
+(./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.bbl [39] [40
+
+]
+Overfull \hbox (26.64215pt too wide) in paragraph at lines 4--7
+\OT1/cmr/m/n/12 http://uidai.gov.in/images/FrontPageUpdates/aadhaar[]authentica
+tion[]api[]1[]5[]rev2.pdf.
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 http://ftp2.bmtmicro.com/dlc/Sharpen.pdf. Ac-cessed on June 201
+3,'5th' June
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 21--23
+\OT1/cmr/m/n/12 http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.ht
+ml. Ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+\OT1/cmr/m/n/12 http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajsea.
+20130201.11.pdf.
+ []
+
+) [41] (./Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.aux) ) 
+Here is how much of TeX's memory you used:
+ 5345 strings out of 495061
+ 76804 string characters out of 1182621
+ 154353 words of memory out of 3000000
+ 8242 multiletter control sequences out of 15000+50000
+ 11303 words of font info for 39 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 38i,7n,36p,848b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on Grp3_Aadhar_Preliminary_Project_Report_2013_06_28.pdf (55 pag
+es, 1412706 bytes).
+PDF statistics:
+ 706 PDF objects out of 1000 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
+ 644 words of extra memory for PDF output out of 10000 (max. 10000000)
+

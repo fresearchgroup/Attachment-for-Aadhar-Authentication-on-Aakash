@@ -1,0 +1,70 @@
+% biblio.bib
+
+@Article{pqr,
+  author =       "Davit Kocharyan",
+  title =        {{A Modified fingerprint image thinning algorithm}},
+  journal =      {An Efficient Fingerprint Image Thinning Algorithm, American Journal of Software Engineering and Applications. Vol.
+2, No. 1, 2013, pp. 1-6. doi: 10.11648/j.ajsea.20130201.11
+},
+  month = 	 {June},
+  year =         {2013},
+  pages =	 {1-6}
+}
+
+@Book{BKRP,
+ author    = "Brian W. Kernighan and Rob Pike",
+ title     = "The Practice of Programming",
+ publisher = "Addison-Wesley Professional Computing Series",
+ year      =  1999,
+}
+
+@misc{abc,
+  author =       {},
+  title =        {{AADHAAR AUTHENTICATION API SPECIFICATION-VERSION 1.5(REV 2). Available at \\ http://uidai.gov.in/images/FrontPageUpdates/aadhaar_authentication\_api\_1\_5\_rev2.pdf. Accessed on 11th May 2013}},
+  month  =       {May},
+  year =         {2013},
+  url = "http://uidai.gov.in/images/FrontPageUpdates/aadhaar_authentication\_api\_1\_5\_rev2.pdf"
+}
+
+
+@misc{def,
+  author =       {},
+  title =        {{Adaptive histogram equalization. Available at \\ http://en.wikipedia.org/wiki/Adaptive_histogram_equalization. Accessed on 12th June 2013}},
+  month  =       {June},
+  year =         {2013},
+  url = "http://en.wikipedia.org/wiki/Adaptive_histogram_equalization"
+}
+
+@misc{ghi,
+  author =       "Jonathan Sachs",
+  title =        {{Sharpening Images. Available at \\ http://ftp2.bmtmicro.com/dlc/Sharpen.pdf. Accessed on 5th June 2013}},
+  month  =       {June},
+  year =         {2013},
+  url = "http://ftp2.bmtmicro.com/dlc/Sharpen.pdf"
+}
+
+@misc{jkl,
+  author =       {},
+  title =        {{Image Filtering. Available at \\ http://http://lodev.org/cgtutor/filtering.html. Accessed on 6th June 2013}},
+  month  =       {June},
+  year =         {2013},
+  url = "http://lodev.org/cgtutor/filtering.html"
+}
+
+@misc{mno,
+  author =       {},
+  title =        {{Otsu Thresholding. Available at \\ http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html. Accessed on 6th June 2013}},
+  month  =       {June},
+  year =         {2013},
+  url = "http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html"
+}
+
+
+@misc{stu,
+  author =       {},
+  title =        {{Scilab. Available at \\ http://en.wikipedia.org/wiki/Scilab. Accessed on 14th June 2013}},
+  month  =       {June},
+  year =         {2013},
+  url = "http://en.wikipedia.org/wiki/Scilab"
+}
+

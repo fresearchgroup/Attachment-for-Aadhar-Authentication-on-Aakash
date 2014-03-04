@@ -1,0 +1,19 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Scope}{3}{0}{1}
+\beamer@sectionintoc {2}{Existing Product}{4}{0}{2}
+\beamer@sectionintoc {3}{Optical assembly}{5}{0}{3}
+\beamer@sectionintoc {4}{Components of optical assembly}{6}{0}{4}
+\beamer@sectionintoc {6}{Hardware Used}{8}{0}{5}
+\beamer@sectionintoc {7}{Frustrated Total Internal Reflection-FTIR}{9}{0}{6}
+\beamer@sectionintoc {8}{Workflow}{10}{0}{7}
+\beamer@sectionintoc {9}{Live Finger Detection}{11}{0}{8}
+\beamer@sectionintoc {10}{Adaptive Histogram Equalization}{12}{0}{9}
+\beamer@sectionintoc {11}{Image Thresholding}{15}{0}{10}
+\beamer@sectionintoc {12}{Image Sharpening}{17}{0}{11}
+\beamer@sectionintoc {13}{Image Thinning}{20}{0}{12}
+\beamer@sectionintoc {14}{Future Scope}{22}{0}{13}
+\beamer@sectionintoc {15}{Problems Faced}{23}{0}{14}
+\beamer@sectionintoc {16}{Things learnt in the project}{24}{0}{15}
+\beamer@sectionintoc {17}{Educational Application}{25}{0}{16}
+\beamer@sectionintoc {18}{Demo}{33}{0}{17}
+\beamer@sectionintoc {19}{Comparison of fingerprint image}{34}{0}{18}

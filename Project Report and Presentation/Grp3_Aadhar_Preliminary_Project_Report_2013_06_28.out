@@ -1,0 +1,46 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Fingerprint Recognition System for Aadhar}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Aadhar Authentication}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Workflow of Aadhar authentication}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Image Processing}{}
+\BOOKMARK [1][-]{section.2.1}{Conversion of RGB to Gray scale}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Rescaling}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Adaptive Histogram equalization of Grey scale}{chapter.2}
+\BOOKMARK [1][-]{section.2.4}{Sharpening}{chapter.2}
+\BOOKMARK [1][-]{section.2.5}{Thresholding}{chapter.2}
+\BOOKMARK [1][-]{section.2.6}{Thinning}{chapter.2}
+\BOOKMARK [1][-]{section.2.7}{Brightness}{chapter.2}
+\BOOKMARK [1][-]{section.2.8}{Contrast}{chapter.2}
+\BOOKMARK [1][-]{section.2.9}{Scilab}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Hardware}{}
+\BOOKMARK [0][-]{chapter.4}{Experimentation and Results}{}
+\BOOKMARK [1][-]{section.4.1}{Experiment 1-With NOKIA 5530}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{Input RGB Image}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.2}{Cropped Image \(Manual\)}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.3}{Image Grayscaling}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.4}{Image Resizing}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.5}{Image Adaptive Histogram Equalization}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.6}{Image Sharpening}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.7}{Image Thresholding}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.8}{Image Thinning}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Experiment 2-With the Aakash Tablet}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{Input RGB Image}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{Cropped Image \(Manual\)}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{Image Grayscaling}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.4}{Image Resizing}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.5}{Image Adaptive Histogram Equalization}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.6}{Image Sharpening}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.7}{Image Thresholding}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.8}{Image Thinning}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{Experimental Results With Different Number of Leds ON}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.3.1}{With all LEDs on}{section.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.1.1}{Cropped Image \(Manual\)}{subsection.4.3.1}
+\BOOKMARK [2][-]{subsection.4.3.2}{With 3 Leds on}{section.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.2.1}{Cropped Image \(Manual\)}{subsection.4.3.2}
+\BOOKMARK [2][-]{subsection.4.3.3}{With 2 Leds\(adjacent\) on}{section.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Cropped Image \(Manual\)}{subsection.4.3.3}
+\BOOKMARK [2][-]{subsection.4.3.4}{With 2 Leds\(diagonal\) on}{section.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.4.1}{Cropped Image \(Manual\)}{subsection.4.3.4}
+\BOOKMARK [2][-]{subsection.4.3.5}{With 1 Led on}{section.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.5.1}{Cropped Image \(Manual\)}{subsection.4.3.5}
+\BOOKMARK [0][-]{chapter.5}{Conclusion and Future Scope}{}

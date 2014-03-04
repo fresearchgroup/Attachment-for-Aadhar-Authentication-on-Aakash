@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem{abc}
+``{AADHAAR AUTHENTICATION API SPECIFICATION-VERSION 1.5(REV 2).Available at \\
+  http://uidai.gov.in/images/FrontPageUpdates/aadhaar\_authentication\_api\_1\_5\_r%
+ev2.pdf. Accessed on May 2013},'11th' May 2013.''
+
+\bibitem{def}
+``{Adaptive histogram equalization. Available at \\
+  http://en.wikipedia.org/wiki/Adaptive\_histogram\_equalization. Accessed on June 2013},'12th' June 2013.''
+
+\bibitem{ghi}
+``{Sharpening Images. Available at \\
+  http://ftp2.bmtmicro.com/dlc/Sharpen.pdf. Accessed on June 2013},'5th' June 2013.''
+  
+\bibitem{jkl}
+``{Image Filtering. Available at \\
+  http://lodev.org/cgtutor/filtering.html. Accessed on June 2013},'6th' June 2013.''
+  
+\bibitem{mno}
+``{Otsu Thresholding. Available at \\
+  http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html. Accessed on June 2013},'6th' June 2013.''
+
+\bibitem{pqr}
+``{A Modified fingerprint image thinning algorithm.Available at \\
+  http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajsea.20130201.11.pdf. Accessed on June 2013},'11th' June 2013.''
+
+
+\bibitem{stu}
+``{Scilab.Available at \\
+ http://en.wikipedia.org/wiki/Scilab. Accessed on June 2013},'14th' June 2013.''
+
+\end{thebibliography}
